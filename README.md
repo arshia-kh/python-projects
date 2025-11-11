@@ -1,9 +1,14 @@
 # Python Projects
-Small collection of tools written during my studies.
 
-## 🧠 Tools
-- **Password Generator:** Creates random secure passwords.
-- **More Coming Soon:** File organizer, log analyzer.
+Small collection of Python tools written during B.Sc. studies and internship.
 
-## 🛠️ Skills
-Python, logic design, file I/O, modular coding.
+## Projects
+- **password_generator.py** — CLI password generator. Usage: `python password_generator.py`
+- **log_parser.py** — simple log file parser (example input: logs/*.log)
+
+## Skills
+Python, file I/O, regex, basic testing.
+
+## How to run
+1. Clone repo: `git clone https://github.com/arshia-kh/python-projects.git`
+2. Run: `python password_generator.py`
